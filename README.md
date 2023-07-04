@@ -17,3 +17,5 @@ comprehensive experiments with 35 datasets that demonstrate the adaptability of 
 types, and provide hyperparameter and ablation analysis of our proposed model. Our experiments show that
 the proposed approach outperforms 10 state-of-the-art baselines and supplies an overall improvement of
 18.59% in terms of average prequential accuracy.
+# Running BELS
+To run the codes, put all of the codes and also the dataset in the same folder. In the BELS_test.py, simply change the variable named "dataset_name = YOUR_DATASET_NAME". Then run the BELS_test.py.
