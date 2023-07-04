@@ -25,7 +25,7 @@ Google Drive Link: https://drive.google.com/drive/folders/16Nn9xmaMjbrR1btzN7__s
 # Running BELS
 To run the codes, put all the codes and also the dataset in the same folder. In the BELS_test.py, simply change the variable name as follows: dataset_name = "YOUR_DATASET_NAME". Then run the BELS_test.py.
 # Requirements
-Python: 3.10.9
-Numpy: 1.23.5
-Pandas:  1.5.3
+Python: 3.10.9 <br />
+Numpy: 1.23.5 <br />
+Pandas:  1.5.3 <br />
 
