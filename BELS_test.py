@@ -1,8 +1,3 @@
-"""
-Created on Mon May 22 16:08:57 2023
-
-@author: 3pehr
-"""
 
 from BELS import *
 import pandas as pd
