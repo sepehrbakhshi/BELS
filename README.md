@@ -17,5 +17,8 @@ comprehensive experiments with 35 datasets that demonstrate the adaptability of 
 types, and provide hyperparameter and ablation analysis of our proposed model. Our experiments show that
 the proposed approach outperforms 10 state-of-the-art baselines and supplies an overall improvement of
 18.59% in terms of average prequential accuracy.
+# Datasets
+All the real and synthetic datasets are available in two formats : CSV and ARFF. ARFF files are included for replicating the baseline results.
 # Running BELS
 To run the codes, put all the codes and also the dataset in the same folder. In the BELS_test.py, simply change the variable name as follows: dataset_name = "YOUR_DATASET_NAME". Then run the BELS_test.py.
+
