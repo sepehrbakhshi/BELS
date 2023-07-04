@@ -18,13 +18,13 @@ types, and provide hyperparameter and ablation analysis of our proposed model. O
 the proposed approach outperforms 10 state-of-the-art baselines and supplies an overall improvement of
 18.59% in terms of average prequential accuracy.
 # Datasets
-All the real and synthetic datasets are available in two formats : CSV and ARFF. (ARFF files are included for replicating the baseline results in MOA)
+All the real and synthetic datasets are available in two formats : CSV and ARFF. 
 
 Google Drive Link: https://drive.google.com/drive/folders/16Nn9xmaMjbrR1btzN7__sSA5LXEgZyQc?usp=sharing
 
 # Running BELS
 
-To execute the code, ensure that all the code files and the dataset are placed within the same folder. In the BELS_test.py file, make sure to include your dataset name using the "dataset_name" variable in the format: dataset_name = "YOUR_DATASET_NAME". After making this change, run the BELS_test.py file.
+To execute the code, ensure that all the code files and the dataset (in .CSV format) are placed within the same folder. In the BELS_test.py file, make sure to include your dataset name using the "dataset_name" variable in the format: dataset_name = "YOUR_DATASET_NAME". After making this change, run the BELS_test.py file.
 
 # Requirements
 Python: 3.10.9 <br />
