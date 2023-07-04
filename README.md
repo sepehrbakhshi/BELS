@@ -19,6 +19,13 @@ the proposed approach outperforms 10 state-of-the-art baselines and supplies an 
 18.59% in terms of average prequential accuracy.
 # Datasets
 All the real and synthetic datasets are available in two formats : CSV and ARFF. (ARFF files are included for replicating the baseline results in MOA)
+
+Google Drive Link: https://drive.google.com/drive/folders/16Nn9xmaMjbrR1btzN7__sSA5LXEgZyQc?usp=sharing
+
 # Running BELS
 To run the codes, put all the codes and also the dataset in the same folder. In the BELS_test.py, simply change the variable name as follows: dataset_name = "YOUR_DATASET_NAME". Then run the BELS_test.py.
+# Requirements
+Python: 3.10.9
+Numpy: 1.23.5
+Pandas:  1.5.3
 
