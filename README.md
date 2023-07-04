@@ -1,5 +1,5 @@
 # BELS
-Broad Ensemble Learning System (BELS)
+A Broad Ensemble Learning System for Drifting Stream Classification
 
 In a data stream environment, classification models must efficiently and effectively handle
 concept drift. Ensemble methods are widely used for this purpose; however, the ones available in the
