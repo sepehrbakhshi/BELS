@@ -16,9 +16,13 @@ warnings.filterwarnings("ignore")
 
 initial_examination = 50
 initial_chunk = 100
+otherwise:
+
+initial_examination = 300
+initial_chunk = 1000
 """
-initial_examination = 50
-initial_chunk = 100
+initial_examination = 300
+initial_chunk = 1000
 def generate_onehot_encoding(labels):
     encoder = OneHotEncoder(sparse=False)
     encoded_labels = encoder.fit_transform([[label] for label in labels])
@@ -28,7 +32,7 @@ def generate_onehot_encoding(labels):
         onehot_dict[str(int(label))] = encoded_labels[i]
     
     return onehot_dict
-dataset_name= "email_data_csv"
+dataset_name= "phishing"
 df = pd.read_csv(r""+dataset_name+".csv" )
 dataset = np.array(df)
 data = dataset[:,0:dataset.shape[1]-1]
