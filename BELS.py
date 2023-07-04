@@ -1,8 +1,3 @@
-"""
-Created on Thu Feb  2 20:13:57 2023
-
-@author: sepehr
-"""
 
 import copy
 from Enhanced_BLS import *
