@@ -40,7 +40,8 @@ To execute the code, ensure that all the code files and the dataset (in .CSV for
   author={Bakhshi, Sepehr and Ghahramanian, Pouya and Bonab, Hamed and Can, Fazli},
   journal={arXiv preprint arXiv:2110.03540},
   year={2021}
-}\```
+}
+```
 
 
 
