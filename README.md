@@ -32,12 +32,8 @@ Pandas:  1.5.3 <br />
 
 To execute the code, ensure that all the code files and the dataset (in .CSV format) are placed within the same folder. In the BELS_test.py file, make sure to include your dataset name using the "dataset_name" variable in the format: dataset_name = "YOUR_DATASET_NAME". After making this change, run the BELS_test.py file.
 
-# Cite
-@article{bakhshi2021broad,
-  title={A Broad Ensemble Learning System for Drifting Stream Classification},
-  author={Bakhshi, Sepehr and Ghahramanian, Pouya and Bonab, Hamed and Can, Fazli},
-  journal={arXiv preprint arXiv:2110.03540},
-  year={2021}
-}
+# Citing BELS
+
+Bakhshi, Sepehr, Pouya Ghahramanian, Hamed Bonab, and Fazli Can. "A Broad Ensemble Learning System for Drifting Stream Classification." arXiv preprint arXiv:2110.03540 (2021).
 
 
