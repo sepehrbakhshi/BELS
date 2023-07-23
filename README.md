@@ -34,12 +34,13 @@ To execute the code, ensure that all the code files and the dataset (in .CSV for
 
 # Citing BELS
 
-```@article{bakhshi2021broad,
+```plaintext
+@article{bakhshi2021broad,
   title={A Broad Ensemble Learning System for Drifting Stream Classification},
   author={Bakhshi, Sepehr and Ghahramanian, Pouya and Bonab, Hamed and Can, Fazli},
   journal={arXiv preprint arXiv:2110.03540},
   year={2021}
-}
+}```
 
 
 
