@@ -34,6 +34,6 @@ To execute the code, ensure that all the code files and the dataset (in .CSV for
 
 # Citing BELS
 
-Bakhshi, Sepehr, Pouya Ghahramanian, Hamed Bonab, and Fazli Can. "A Broad Ensemble Learning System for Drifting Stream Classification." arXiv preprint arXiv:2110.03540 (2021).
+Bakhshi, Sepehr, et al. "A Broad Ensemble Learning System for Drifting Stream Classification." arXiv preprint arXiv:2110.03540 (2021).
 
 
